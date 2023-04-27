@@ -4,4 +4,4 @@
 ### Preview
 ![react-ingo-preview](https://user-images.githubusercontent.com/71626197/234995042-9bcddb6e-bc07-4008-a35a-a5c567a81432.png)
 
-Thanks to [Scrimba](https://scrimba.com/) for the introductionn to React :blue_heart:
+Thanks to [Scrimba](https://scrimba.com/) for the introduction to React :blue_heart:
